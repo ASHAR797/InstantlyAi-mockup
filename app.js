@@ -27,17 +27,4 @@ tl.from(".sec-1>div>div:nth-child(1) , .sec-1>div>div:nth-child(2)", {
     stagger: 0.5,
 })
 
-tl.from(".sec-2 div:nth-child(1) img:nth-child(6)", {
-    scale: 0,
-    delay: 1,
-    duration: 1,
-    rotate: 360 ,
-    scrollTrigger: ".sec-2",
-}).from(".sec-2 div:nth-child(1) img:nth-child(3)", {
-    scale: 0,
-    delay: 1,
-    duration: 1,
-    rotate: 360 ,
-    scrollTrigger: ".sec-2",
-})
 

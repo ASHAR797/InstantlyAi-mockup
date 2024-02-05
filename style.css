@@ -852,9 +852,10 @@ header>div:nth-child(2) img {
 }
 
 .sec-10-container>div:nth-child(1)>div:nth-child(3)>img:nth-child(1) {
-    position: relative;
-    left: 130px;
-    top: 35px;
+    position: absolute;
+    top: 208px;
+    width: 34px;
+    left: 285px;
 }
 
 .sec-10-container>div:nth-child(1)>div:nth-child(1)>img:nth-child(2) {
