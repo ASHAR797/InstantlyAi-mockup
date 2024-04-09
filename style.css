@@ -1002,6 +1002,7 @@ footer p {
     #navigation[data-visible="true"] {
         transform: translateY(0%);
         height: 25em;
+        z-index: 1;
     }
 
     #navigation ul {
