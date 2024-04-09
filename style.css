@@ -1112,7 +1112,7 @@ footer p {
 
     .swiper-slide>div {
         flex-direction: column;
-        margin: 0px 10px;
+        margin: 50px 20px 50px 20px;
     }
 
     .swiper-slide p {
